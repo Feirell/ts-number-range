@@ -2,6 +2,11 @@
 
 This package provides two type aliases which allow you to create number ranges easier.
 
+## limitiations
+
+**Be aware that this is not a real solution, but a workaround which only works in a very limited range in respect to the bounds
+of the range. 41 is the current maximum recursion depth, so the max range is 0 | 1 | ... | 40.** 
+
 ## Types
 
 ```typescript
