@@ -1,6 +1,6 @@
 {
   "name": "ts-number-range",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "types": "./number-range.d.ts",
   "repository": "https://github.com/feirell/ts-number-range.git",
   "author": "Florian Völker <Neirolf2030@web.de>",
